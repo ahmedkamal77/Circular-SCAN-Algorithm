@@ -1,0 +1,6 @@
+﻿  Circular SCAN (C-SCAN).cpp
+C:\Users\HP\source\repos\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN).cpp(40,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN).cpp(51,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN).cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN)\Circular SCAN (C-SCAN).cpp(75,27): warning C4018: '<': signed/unsigned mismatch
+  Circular SCAN (C-SCAN).vcxproj -> C:\Users\HP\source\repos\Circular SCAN (C-SCAN)\Debug\Circular SCAN (C-SCAN).exe
